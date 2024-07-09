@@ -1,1 +1,1 @@
-# VNese-Text-Classification
+# Phân loại văn bản Tiếng Việt - Vietnamese text classification
